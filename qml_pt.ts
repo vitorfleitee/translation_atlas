@@ -3,19 +3,19 @@
     <name>global</name>
     <message>
         <source>journeys_0</source>
-        <translation>viagem</translation>
+        <translation>trajeto</translation>
     </message>      
     <message>
         <source>journeys_1</source>
-        <translation>viagens</translation>
+        <translation>trajetos</translation>
     </message>      
     <message>
         <source>journeys_2</source>
-        <translation>viagens</translation>
+        <translation>trajetos</translation>
     </message>      
     <message>
         <source>journeys_3</source>
-        <translation>viagens</translation>
+        <translation>trajetos</translation>
     </message>
 
     <message>
@@ -1255,7 +1255,7 @@
     <name>RequestEditFormCar</name>
     <message>
         <source>CarMake</source>
-        <translation>Fábrica</translation>
+        <translation>Marca</translation>
     </message>     
     <message>
         <source>CarModel</source>
@@ -2035,7 +2035,7 @@
     </message>
     <message>
         <source>InProcess</source>
-        <translation>Processando</translation>
+        <translation>Em andamento</translation>
     </message>
     <message>
         <source>Solved</source>
@@ -2051,19 +2051,21 @@
     </message>
     <message>
         <source>Decline</source>
-        <translation>Declinado</translation>
+        <translation>Recusar</translation>
+        <!---Icouldnotunderstandwell---->
     </message>
     <message>
         <source>Waiting</source>
-        <translation>Esperando</translation>
+        <translation>Em aguardo</translation>
     </message>
     <message>
         <source>Decline_by_user</source>
         <translation>Recusar pelo usuário</translation>
+        <!---Icouldnotunderstandwell---->
     </message>
     <message>
         <source>Complete</source>
-        <translation>Completo</translation>
+        <translation>Concluído</translation>
     </message>
     <message>
         <source>Hidden</source>
