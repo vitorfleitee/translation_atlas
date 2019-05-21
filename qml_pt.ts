@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Requests</source>
-        <translation>Pedidos</translation>
+        <translation>Solicitações</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -235,18 +235,18 @@
     <name>CarStateFuel</name>
     <message>
         <source>Fuel</source>
-        <translation> Combustível</translation>
+        <translation>Combustível</translation>
     </message>
     <message>
         <source>litre</source>
-        <translation>Litro</translation>
+        <translation>L</translation>
     </message>
 </context>
 <context>
     <name>CarStateAccum</name>
     <message>
         <source>Accumulator</source>
-        <translation>Acumulador</translation>
+        <translation>Bateria</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@
     <name>CarStateDiag</name>
     <message>
         <source>Diagnostics</source>
-        <translation> Diagnóstico</translation>
+        <translation>Diagnóstico</translation>
     </message>
     <message>
         <source>Update</source>
@@ -283,11 +283,11 @@
     </message>
     <message>
         <source>Rides</source>
-        <translation>Viagens</translation>
+        <translation>Trajetos</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation>Estatisticas</translation>
+        <translation>Estatísticas</translation>
     </message>
 </context>
 <context>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Rides</source>
-        <translation>Viagens</translation>
+        <translation>Trajetos</translation>
     </message>
     <message>
         <source>UseAreas</source>
@@ -321,7 +321,7 @@
     </message>
     <message>
         <source>Journeys</source>
-        <translation>Viagens</translation>
+        <translation>Trajetos</translation>
     </message>
     <message>
         <source>Events</source>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>DrivingScore</source>
-        <translation> Pontuação de condução</translation>
+        <translation>Pontuação de condução</translation>
     </message>
     <message>
         <source>EXCEEDING_SPEED</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>liters</source>
-        <translation> l</translation>
+        <translation>L</translation>
     </message>
     <message>
         <source>Distance</source>
@@ -560,7 +560,7 @@
     <name>CampaignAdd</name>
     <message>
         <source>NeedToBeFilled</source>
-        <translation> Precisa ser preenchido</translation>
+        <translation>Deve ser preenchido</translation>
     </message>
     <message>
         <source>CantSaveCampaign</source>
@@ -655,7 +655,7 @@
     <name>SearchHelpPopup</name>
     <message>
         <source>FormatText</source>
-        <translation>Use os seguintes formatos:%1 Número da embalagem: 94038%1 IMEI: 94038%1 Chassi: JMYSNCP9*YU****11%1 Placa: О849РА184%1 Telefone: 79000000000</translation>
+        <translation>Use os seguintes formatos:%1 Número da embalagem: 94038%1 IMEI: 94038%1 Chassis: JMYSNCP9*YU****11%1 Placa: О849РА184%1 Telefone: 79000000000</translation>
     </message>
 </context>
 <context>
@@ -1119,7 +1119,7 @@
     </message>
     <message>
         <source>NeedToBeFilled</source>
-        <translation>Precisa ser preenchido</translation>
+        <translation>Deve ser preenchido</translation>
     </message>    
     <message>
         <source>LengthMustBeAtLeast2</source>
@@ -1240,7 +1240,7 @@
     </message>
     <message>
         <source>NeedToBeFilled</source>
-        <translation>NPrecisa ser preenchido</translation>
+        <translation>Deve ser preenchido</translation>
     </message>
     <message>
         <source>LengthMustBeAtLeast2</source>
@@ -1255,11 +1255,11 @@
     <name>RequestEditFormCar</name>
     <message>
         <source>CarMake</source>
-        <translation>Fabricar</translation>
+        <translation>Fábrica</translation>
     </message>     
     <message>
         <source>CarModel</source>
-        <translation>Model</translation>
+        <translation>Modelo</translation>
     </message>     
     <message>
         <source>CarYear</source>
@@ -1275,7 +1275,7 @@
     </message>     
     <message>
         <source>NeedToBeFilled</source>
-        <translation>Need to be filled</translation>
+        <translation>Deve ser preenchido</translation>
     </message>
     <message>
         <source>LengthMustBeAtLeast17</source>
@@ -1306,7 +1306,7 @@
     </message>     
     <message>
         <source>NeedToBeFilled</source>
-        <translation>Need to be filled</translation>
+        <translation>Deve ser preenchido</translation>
     </message>
     <message>
         <source>Loading</source>
@@ -1462,7 +1462,7 @@
     </message> 
     <message>
         <source>Solved</source>
-        <translation>Resolvido</translation>
+        <translation>Concluído</translation>
     </message> 
     <message>
         <source>NewFailed</source>
@@ -1474,7 +1474,7 @@
     </message>     
     <message>
         <source>SolvedFailed</source>
-        <translation>Resolvido (erro no sistema)</translation>
+        <translation>Concluído (erro no sistema)</translation>
     </message>
     <message>
         <source>FindHint</source>
@@ -1550,7 +1550,7 @@
     <name>CrashDetailComment</name>
     <message>
         <source>Comment</source>
-        <translation>Comentário</translation>
+        <translation>Escrever comentário</translation>
     </message>
 </context>   
 <context>
@@ -1775,6 +1775,8 @@
     <message>
         <source>Crash_Speed</source>
         <translation>Velocidade do veículo no momento, km/h</translation>
+        <!--translation>Velocidade do veículo, km/h</translation-->
+        <!--We have to make the sencente above smaller to fit into the table in the report --->
     </message>  
     <message>
         <source>Crash_Severity</source>
@@ -1790,7 +1792,7 @@
     </message>
     <message>
         <source>Speed_chart</source>
-        <translation>Gráfco da velocidade:</translation>
+        <translation>Gráfico da velocidade:</translation>
     </message>     
     <message>
         <source>Accel_chart</source>
@@ -1809,7 +1811,7 @@
     </message>
     <message>
         <source>Solved</source>
-        <translation>Resolvido</translation>
+        <translation>Concluído</translation>
     </message>      
 </context>
 <context>
@@ -1844,7 +1846,7 @@
     <name>ReportingPage</name>
     <message>
         <source>FindReport</source>
-        <translation>Encontrar por placa, nome, VIN</translation>
+        <translation>Encontrar por placa, nome, chassis</translation>
     </message>
     <message>
         <source>DownloadExcel</source>
@@ -1881,7 +1883,7 @@
     </message>
     <message>
         <source>FindInstance</source>
-        <translation>Encontrar por placa, nome, VIN</translation>
+        <translation>Encontrar por placa, nome, chassis</translation>
     </message>
     <message>
         <source>WriteExcelError</source>
@@ -1943,11 +1945,11 @@
     </message> 
     <message>
         <source>status_Waiting</source>
-        <translation>Esperando</translation>
+        <translation>Em aguardo</translation>
     </message> 
     <message>
         <source>status_InProgress</source>
-        <translation>Processando</translation>
+        <translation>Em andamento</translation>
     </message> 
     <message>
         <source>status_Success</source>
@@ -1979,7 +1981,7 @@
     </message>     
     <message>
         <source>found_VIN</source>
-        <translation>Chassi encontrado</translation>
+        <translation>Chassis encontrado</translation>
     </message>     
     <message>
         <source>found_number</source>
@@ -1999,7 +2001,7 @@
     </message>     
     <message>
         <source>duplicate_VIN</source>
-        <translation>duplicado: Chassi</translation>
+        <translation>duplicado: chassis</translation>
     </message>     
     <message>
         <source>duplicate_number</source>
@@ -2037,7 +2039,7 @@
     </message>
     <message>
         <source>Solved</source>
-        <translation>Resolvido</translation>
+        <translation>Concluído</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2065,7 +2067,8 @@
     </message>
     <message>
         <source>Hidden</source>
-        <translation>Escondida</translation>
+        <translation>Oculto</translation>
+        <!---translation>Secreto</translation--->
     </message>    
 </context>
 <context>
@@ -2116,15 +2119,15 @@
     </message>
     <message>
         <source>Place</source>
-        <translation>Local de instalação alterada</translation>
+        <translation>Local de instalação alterado</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo de instalação alterada</translation>
+        <translation>Tipo de instalação alterado</translation>
     </message>
     <message>
         <source>VIN</source>
-        <translation>VIN alterado</translation>
+        <translation>Chassis alterado</translation>
     </message>
     <message>
         <source>GovNum</source>
@@ -2193,11 +2196,11 @@
     <name>format_time</name> 
     <message>
         <source>_at_</source>
-        <translation> em </translation>
+        <translation> às </translation>
     </message> 
     <message>
         <source>updated_</source>
-        <translation>Atualizada </translation>
+        <translation>Atualizado em</translation>
     </message>
     <message>
         <source>generated_</source>
