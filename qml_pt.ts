@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Requests</source>
-        <translation>Requisições</translation>
+        <translation>Pedidos</translation>
     </message>
     <message>
         <source>Reports</source>
